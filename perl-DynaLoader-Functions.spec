@@ -4,7 +4,7 @@
 #
 Name     : perl-DynaLoader-Functions
 Version  : 0.003
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
 Summary  : Perl DynaLoader::Functions CPAN module
