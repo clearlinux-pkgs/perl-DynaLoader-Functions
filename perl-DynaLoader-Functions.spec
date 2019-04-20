@@ -4,10 +4,10 @@
 #
 Name     : perl-DynaLoader-Functions
 Version  : 0.003
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
-Summary  : 'deconstructed dynamic C library loading'
+Summary  : Perl DynaLoader::Functions CPAN module
 Group    : Development/Tools
 License  : Artistic-1.0-Perl
 BuildRequires : buildreq-cpan
@@ -21,6 +21,7 @@ DESCRIPTION
 Summary: dev components for the perl-DynaLoader-Functions package.
 Group: Development
 Provides: perl-DynaLoader-Functions-devel = %{version}-%{release}
+Requires: perl-DynaLoader-Functions = %{version}-%{release}
 
 %description dev
 dev components for the perl-DynaLoader-Functions package.
