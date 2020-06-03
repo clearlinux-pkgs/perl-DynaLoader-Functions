@@ -4,7 +4,7 @@
 #
 Name     : perl-DynaLoader-Functions
 Version  : 0.003
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.003.tar.gz
 Summary  : 'deconstructed dynamic C library loading'
@@ -75,4 +75,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/DynaLoader/Functions.pm
+/usr/lib/perl5/vendor_perl/5.30.3/DynaLoader/Functions.pm
