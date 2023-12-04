@@ -5,7 +5,7 @@
 #
 Name     : perl-DynaLoader-Functions
 Version  : 0.004
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/DynaLoader-Functions-0.004.tar.gz
 Summary  : 'deconstructed dynamic C library loading'
